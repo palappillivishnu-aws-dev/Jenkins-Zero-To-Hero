@@ -73,15 +73,3 @@
 
 
 </project>
-<build>
-  <pluginManagement>
-    <plugins>
-      <plugin>
-        <groupId>org.sonarsource.scanner.maven</groupId>
-        <artifactId>maven-metadata-local</artifactId>
-        <!-- Use the latest stable sonar-maven-plugin version -->
-        <version>5.0.0.4389</version> 
-      </plugin>
-    </plugins>
-  </pluginManagement>
-</build>
